@@ -1,0 +1,37 @@
+C:\C#\Calculadora\bin\Debug\Calculadora.exe.config
+C:\C#\Calculadora\bin\Debug\Calculadora.exe
+C:\C#\Calculadora\bin\Debug\Calculadora.pdb
+C:\C#\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\C#\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\C#\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\C#\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\C#\Calculadora\obj\Debug\Calculadora.exe
+C:\C#\Calculadora\obj\Debug\Calculadora.pdb
+D:\c#\Calculadora\bin\Debug\Calculadora.exe.config
+D:\c#\Calculadora\obj\Debug\Calculadora.exe
+D:\c#\Calculadora\obj\Debug\Calculadora.pdb
+D:\c#\Calculadora\bin\Debug\Calculadora.exe
+D:\c#\Calculadora\bin\Debug\Calculadora.pdb
+D:\c#\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\c#\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\c#\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\c#\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\calculadora jeremy\Calculadora\bin\Debug\Calculadora.exe.config
+C:\calculadora jeremy\Calculadora\obj\Debug\Calculadora.exe
+C:\calculadora jeremy\Calculadora\obj\Debug\Calculadora.pdb
+C:\calculadora jeremy\Calculadora\bin\Debug\Calculadora.exe
+C:\calculadora jeremy\Calculadora\bin\Debug\Calculadora.pdb
+C:\calculadora jeremy\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\calculadora jeremy\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\calculadora jeremy\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\calculadora jeremy\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Admin\Desktop\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Admin\Desktop\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Admin\Desktop\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Admin\Desktop\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Admin\Desktop\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Admin\Desktop\Calculadora\obj\Debug\Calculadora.pdb

@@ -45,7 +45,7 @@ voz.SpeakAsync("Bienvenido a la calculadora con voz");
 ¡Las contribuciones son bienvenidas! Puedes hacer un **fork** del proyecto y enviarme un **pull request** con mejoras. 💡  
 
 ## 📄 Licencia  
-Este proyecto está bajo la licencia **MIT**. ¡Úsalo libremente!  
+Este proyecto está bajo la licencia **[MIT](LICENSE)**. ¡Úsalo libremente!  
 
 📢 *Si te gusta este proyecto, no olvides darle una ⭐ en GitHub!*  
 ---
